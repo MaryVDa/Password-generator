@@ -21,3 +21,5 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+![image](https://user-images.githubusercontent.com/122223756/221029965-76b7115b-040d-4589-98a0-4729e9ce77f2.png)
